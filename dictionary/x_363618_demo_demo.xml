@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Demo" max_length="40" name="x_363618_demo_demo" type="collection">
+        <element label="field1" max_length="40" name="field1" type="integer"/>
+        <element label="field2" max_length="40" name="field2" type="integer"/>
+    </element>
+</database>
